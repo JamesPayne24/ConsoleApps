@@ -10,7 +10,7 @@ namespace ConsoleAppProject.App02
     /// This app will calculate your BMI and tell you if you are Under/Healthy/Over weight.
     /// </summary>
     /// <author>
-    /// James Payne 22027350 
+    /// James Payne 22027350 v.10
     /// </author>
     class Program
     {
