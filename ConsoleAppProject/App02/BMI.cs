@@ -94,6 +94,11 @@ namespace ConsoleAppProject.App02
                     Console.WriteLine("You're moderately overweight");
                 else
                     Console.WriteLine("You're obese");
+
+                Console.WriteLine("If you are Black, Asian or other minority ethnic groups, you may have a higher risk");
+                Console.WriteLine("Adults 23.0 or more are at an increased risk");
+                Console.WriteLine("Adults 27.5 or more are at high risk");
+
             }
             else if (Menu == 3)
             {
