@@ -60,6 +60,10 @@ namespace ConsoleAppProject.App02
                     Console.WriteLine("You're moderately overweight");
                 else
                     Console.WriteLine("You're obese");
+
+                Console.WriteLine("If you are Black, Asian or other minority ethnic groups, you may have a higher risk");
+                Console.WriteLine("Adults 23.0 or more are at an increased risk");
+                Console.WriteLine("Adults 27.5 or more are at high risk");
             }
 
             if (Menu == 2)
@@ -80,7 +84,7 @@ namespace ConsoleAppProject.App02
                 if (bmi < 16)
                     Console.WriteLine("You're severly underweight");
                 else
-                if (bmi <= 18.5)
+                if (bmi <= 17.5)
                     Console.WriteLine("You're underweight");
 
                 else
