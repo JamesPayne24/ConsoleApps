@@ -12,7 +12,7 @@ namespace ConsoleAppProject.App02
     /// <author>
     /// James Payne 22027350 v.10
     /// </author>
-    class Program
+     public class Program
     {
         static void Main(string[] args)
         {
