@@ -52,7 +52,7 @@ namespace marks
 
         {
 
-            System.Console.WriteLine("Program for simple student grading logic.");
+            System.Console.WriteLine("Program for simple student grading,By James Payne.");
 
 
 
